@@ -23,12 +23,6 @@ namespace PruebaSalon.Controllers
             return View();
         }
 
-        public IActionResult blank()
-        {
-
-            return View();
-        }
-
         public IActionResult Privacy()
         {
             return View();
